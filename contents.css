@@ -1,0 +1,106 @@
+body {
+	font-family: 'Lato', 'Noto Sans JP', 'ヒラギノ角ゴ ProN', 'Hiragino Kaku Gothic ProN', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+	background-color:black;
+}
+img { 
+	max-width:100%; 
+	height:auto; 
+}
+.title {
+	border : solid 1px #fff ;
+    display: inline-block;
+	transform: skewX(-30deg);
+	padding: .8em 1.2em;
+	font-size: 20px;
+	width: 200px;
+	position: relative;
+	left: 15%;
+	text-align: center;
+}
+.title span {
+	display: inline-block;
+	transform: skewX(30deg);
+	color: white;
+	position: relative;
+}
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5%;
+	margin-top: 5%;
+}
+IMG.displayed2 {
+    display: block;
+    margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5%;
+	margin-top: 5%;
+}
+IMG.displayed3 {
+    display: block;
+    margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5%;
+	margin-top: 5%;
+}
+IMG.displayed4 {
+    display: block;
+    margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5%;
+	margin-top: 5%;
+}
+IMG.displayed5 {
+    display: block;
+    margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5%;
+	margin-top: 5%;
+}
+IMG.displayed6 {
+    display: block;
+    margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5%;
+	margin-top: 5%;
+}
+IMG.displayed7 {
+    display: block;
+    margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5%;
+	margin-top: 5%;
+}
+IMG.displayed8 {
+    display: block;
+    margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5%;
+	margin-top: 5%;
+}
+IMG.displayed9 {
+    display: block;
+    margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5%;
+	margin-top: 5%;
+}
+IMG.displayed10 {
+    display: block;
+    margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5%;
+	margin-top: 5%;
+}
+.detail {
+  height: 10em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+}
+.detail span {
+  margin: 0;
+  color: white;
+}
